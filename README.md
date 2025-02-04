@@ -1,5 +1,5 @@
 # System_design
-Welcome to my System Design repository! 🚀 Here, you'll find comprehensive notes and insights on High-Level Design (HLD) concepts that I’ve learned and curated. This repository will serve as a growing collection of system design knowledge, starting with HLD and, in the future, expanding to include Low-Level Design (LLD) notes and resources.
+Welcome to my System Design repository!  Here, you'll find comprehensive notes and insights on High-Level Design (HLD) concepts that I’ve learned and curated. This repository will serve as a growing collection of system design knowledge, starting with HLD and, in the future, expanding to include Low-Level Design (LLD) notes and resources.
 
 Current Content
 Detailed HLD notes covering basic to intermediate concepts.
